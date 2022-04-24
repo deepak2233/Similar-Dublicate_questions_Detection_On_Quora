@@ -16,6 +16,11 @@ Identify which questions asked on Quora are duplicates of questions that have al
 * Expanding contractions etc.
 ---
 
+# **Fuzzy String matching Features**
+<p align = 'center'>
+  <img src = '.utils/fuzzy_feature_eda.png' align = 'center'>
+</p>
+
 # **Methodlgy**
 
 * Used Hand-craft Featurs and Fuzzy String matching based features 
