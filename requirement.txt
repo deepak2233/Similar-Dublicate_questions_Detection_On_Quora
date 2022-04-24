@@ -1,0 +1,11 @@
+# installing extra packages
+!pip install distance
+!pip install fuzzywuzzy
+from bs4 import BeautifulSoup
+
+from PIL import Image
+
+
+# Exra Fuzzy Learning Stuff
+
+http://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/
