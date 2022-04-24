@@ -18,7 +18,7 @@ Identify which questions asked on Quora are duplicates of questions that have al
 
 # **Fuzzy String matching Features**
 <p align = 'center'>
-  <img src = '.utils/fuzzy_feature_eda.png' align = 'center'>
+  <img src = './utils/fuzzy_feature_eda.png' align = 'center'>
 </p>
 
 # **Methodlgy**
