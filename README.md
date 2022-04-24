@@ -24,12 +24,12 @@ Identify which questions asked on Quora are duplicates of questions that have al
 
 ---
 
-**Results**
+# **Results**
 * Performance by using TF-IDF
 * Performance by Using TF-IDF weighted Glove(W2Vec)
 
 ---
-Weighter TF-IDF w2v
+**Weighter TF-IDF w2v**
 
 
 |       ML Model      | Vectorizer | Train log loss | Test log loss | Accuracy | Precision | recall | f1-score |
@@ -39,7 +39,7 @@ Weighter TF-IDF w2v
 
 ---
 
- TF-IDF vec
+ **TF-IDF vec**
  
 
 |       ML Model      | Vectorizer | Train log loss | Test log loss | Accuracy | Precision | recall | f1-score |
