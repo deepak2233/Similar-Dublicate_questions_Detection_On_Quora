@@ -33,7 +33,7 @@ TF-IDF w2v
 
 
 |       ML Model      | Vectorizer | Train log loss | Test log loss | Accuracy | Precision | recall | f1-score |
-
+|---------------------|------------|----------------|---------------|----------|-----------|--------|----------|
 | Logistic Regression | TF-IDF w2v |     0.385      |     0.3942    |   0.81   |    0.8    |  0.78  |   0.79   |
 |      Linear SVM     | TF-IDF w2v |     0.387      |     0.395     |   0.81   |    0.81   |  0.78  |   0.79   |
 
@@ -43,7 +43,7 @@ TF-IDF w2v
  
 
 |       ML Model      | Vectorizer | Train log loss | Test log loss | Accuracy | Precision | recall | f1-score |
-
+|---------------------|------------|----------------|---------------|----------|-----------|--------|----------|
 | Logistic Regression |  TF-IDF    |     0.436      |     0.539     |   0.74   |    0.72   |  0.69  |   0.7    |
 |      Linear SVM     |  TF-IDF    |     0.488      |     0.544     |   0.74   |    0.73   |  0.69  |   0.69   |
 
