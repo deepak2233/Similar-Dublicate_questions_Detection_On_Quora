@@ -27,6 +27,10 @@ Identify which questions asked on Quora are duplicates of questions that have al
 * TF-IDF word Embedding and Weighted TF-IDF Glove(Word2vec) vectorization
 * ML Model -> SVM and Logistic Regression with Hyparparameter Tuning.
 
+<p align = 'center'>
+  <img src = './utils/Model.png' align = 'center'>
+</p>
+
 ---
 
 # **Results**
