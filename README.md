@@ -28,7 +28,7 @@ Identify which questions asked on Quora are duplicates of questions that have al
 * ML Model -> SVM and Logistic Regression with Hyparparameter Tuning.
 
 <p align = 'center'>
-  <img src = './utils/Model.jpg' align = 'center'>
+  <img src = './utils/ML_Pipeline.jpg' align = 'center'>
 </p>
 
 ---
